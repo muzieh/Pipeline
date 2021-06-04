@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.simple-pipeline.iml
+# Datasource local storage ignored files
+/../../../../../../../:\Prog\jenkins\simple-pipeline\.idea\.idea.simple-pipeline\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
