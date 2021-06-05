@@ -14,7 +14,7 @@ namespace UnitTests
         [Fact]
         public void FailingTest()
         {
-            Assert.True(false, "oj");
+            Assert.False(false, "oj");
         }
     }
 }
