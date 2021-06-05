@@ -16,5 +16,11 @@ namespace UnitTests
         {
             Assert.False(false, "oj");
         }
+
+        [Fact]
+        public void OneMoreTest()
+        {
+            Assert.True(true);
+        }
     }
 }
